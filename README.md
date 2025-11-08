@@ -150,7 +150,6 @@ Make sure you have the following installed:
 #### Required Services Setup
 
 1. **MongoDB**
-   - **Local:** Install MongoDB locally and use `mongodb://localhost:27017/prescripto`
    - **Cloud:** Create a MongoDB Atlas account and get your connection string
 
 2. **Cloudinary** (Required for image uploads)
