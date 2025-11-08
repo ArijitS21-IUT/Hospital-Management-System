@@ -62,8 +62,8 @@ Make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/prescripto.git
-   cd prescripto
+   git clone https://github.com/ArijitS21-IUT/Hospital-Management-System.git
+   cd Hospital-Management-System-master
    ```
 
 2. **Set up the Backend**
@@ -190,8 +190,8 @@ We welcome contributions from the community! 🚀 Here's how you can get involve
 
 2. **Clone Your Fork**
    ```bash
-   git clone https://github.com/your-username/prescripto.git
-   cd prescripto
+   git clone https://github.com/ArijitS21-IUT/Hospital-Management-System.git
+   cd Hospital-Management-System-master
    ```
 
 3. **Set up Development Environment**
@@ -261,7 +261,7 @@ We welcome contributions from the community! 🚀 Here's how you can get involve
 If you find **Prescripto** useful, please ⭐ this repo and share it!  
 
 For questions, feedback, or collaboration:
-- 📧 **Email:** [arijitsengupta@gmail.com](mailto:contactyashtiwari912@gmail.com)
+- 📧 **Email:** [arijitsengupta@gmail.com](mailto:arijitsengupta1976@gmail.com)
 - 💼 **LinkedIn:** [Connect with Developer](https://www.linkedin.com/in/arijitsengupta2003)
 
 ---
