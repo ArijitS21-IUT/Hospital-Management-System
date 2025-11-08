@@ -85,7 +85,7 @@ Make sure you have the following installed:
    ADMIN_PASSWORD=your_admin_password
    
    # MongoDB Setup (required):
-   # MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/prescripto
+   MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/prescripto
    
    # Cloudinary Setup (required)
    CLOUDINARY_NAME=your_cloudinary_name
