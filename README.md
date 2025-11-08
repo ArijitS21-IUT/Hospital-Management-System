@@ -1,4 +1,4 @@
-# 💊 Prescripto – Smart Doctor Appointment Booking System  
+# Prescripto – Smart Hospital Management System  
 
 **Prescripto** is a modern **MERN Stack healthcare platform** designed to simplify the process of booking doctor appointments online. It offers patients a seamless way to schedule consultations, while providing doctors with tools to manage availability, appointments, and patient information.  
 
@@ -84,9 +84,7 @@ Make sure you have the following installed:
    ADMIN_EMAIL=admin@prescripto.com
    ADMIN_PASSWORD=your_admin_password
    
-   # MongoDB Setup (required)
-   MONGODB_URI=mongodb://localhost:27017/prescripto
-   # OR for MongoDB Atlas:
+   # MongoDB Setup (required):
    # MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/prescripto
    
    # Cloudinary Setup (required)
@@ -258,20 +256,13 @@ We welcome contributions from the community! 🚀 Here's how you can get involve
 
 ---
 
-## 📄 License  
-
-Distributed under the **MIT License**. See `LICENSE` for details.  
-
----
-
 ## 🌟 Support  
 
 If you find **Prescripto** useful, please ⭐ this repo and share it!  
 
 For questions, feedback, or collaboration:
-- 📧 **Email:** [contactyashtiwari912@gmail.com](mailto:contactyashtiwari912@gmail.com)
-- 💼 **LinkedIn:** [Connect with Developer](https://www.linkedin.com/in/yash-tiwari-237312287/)
-- 🐛 **Issues:** [Report bugs or request features](https://github.com/yashtiwari912/prescripto/issues)
+- 📧 **Email:** [arijitsengupta@gmail.com](mailto:contactyashtiwari912@gmail.com)
+- 💼 **LinkedIn:** [Connect with Developer](https://www.linkedin.com/in/arijitsengupta2003)
 
 ---
 
